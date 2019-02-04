@@ -1,5 +1,5 @@
 <?php 
-
+//TEST
 //include ('Register2.php');
 session_start();
 
