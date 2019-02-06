@@ -1,0 +1,36 @@
+h1 {
+	margin-left: 50px;
+	margin-top: 60px;
+	font-family: Impact;
+}
+
+h1, li {
+	text-align: center;
+}
+
+li, li a{
+	margin: 15px;
+	font-size: 20px;
+	color: black;
+	text-decoration: none;
+	font-family: arial;
+	-webkit-user-select: none; /* Safari */        
+	-moz-user-select: none; /* Firefox */
+	-ms-user-select: none; /* IE10+/Edge */
+	user-select: none; /* Standard */
+}
+
+li {
+	border-bottom: 3px dashed #81409C;
+}
+
+a:hover	{
+	font-weight: bold;
+}
+
+ul {
+	list-style-type: none;
+	border: 3px dashed #81409C;
+	margin-left: 15px;
+	margin-right: 15px;
+}
